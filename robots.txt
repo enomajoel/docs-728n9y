@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-3r1vps.arabsaudibola.com/sitemap.xml
